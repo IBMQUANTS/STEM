@@ -1,0 +1,36 @@
+h1 { background-color: black;
+		 color: white;}
+hi { <center;>}
+
+h2 { background-color:white; color: #3399CC;}
+nav { background-color: #3399CC; color:#90C7E3;}
+div {background-color: white;}
+	{color: #3399CC;}
+body { background-color: #33ccff;
+	   background-image: linear-gradient ( to bottom, #3399CC, #90C7E3;
+       background-repeat: no-repeat; }
+
+	<style>
+	img{
+		stem1
+		height:300px;
+		width:400px;
+	}
+	    
+	.png{	
+		stem2 
+		height:300px;
+		width:400px;
+		float:left;
+	}
+	
+	.img{
+		stem3
+		height:300px;
+		width:400px;
+		float:right;
+		margin-right:20px;
+	}
+	</style>
+	
+	<div class="stem3"></div>
