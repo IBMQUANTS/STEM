@@ -3,7 +3,6 @@ h1 {
 		 color: white;
 }
 
-
 h2 { 
 	background-color:white; color: #3399CC;
 }
@@ -22,10 +21,10 @@ body {
        background-repeat: no-repeat; 
 }
 body {
- margin: o auto;
-	width: 700px;
-	border: 3px;
-	padding: 0 2em 1em;
+	 margin: o auto;
+	 width: 700px;
+	 border: 3px;
+	 padding: 0 2em 1em;
 }
 	<style>
 	img{
