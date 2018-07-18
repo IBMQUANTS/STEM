@@ -1,15 +1,30 @@
-h1 { background-color: black;
-		 color: white;}
-hi { <center;>}
+h1 {
+	background-color: black;
+		 color: white;
+}
 
-h2 { background-color:white; color: #3399CC;}
-nav { background-color: #3399CC; color:#90C7E3;}
-div {background-color: white;}
-	{color: #3399CC;}
-body { background-color: #33ccff;
+
+h2 { 
+	background-color:white; color: #3399CC;
+}
+nav {
+	background-color: #3399CC; color:#90C7E3;
+}
+div {
+	background-color: white;
+}
+	{
+		color: #3399CC;
+}
+body {
+	background-color: #33ccff;
 	   background-image: linear-gradient ( to bottom, #3399CC, #90C7E3;
-       background-repeat: no-repeat; }
-
+       background-repeat: no-repeat; 
+ margin: o auto;
+	width: 700px;
+	border: 3px;
+	padding: 0 2em 1em;
+}
 	<style>
 	img{
 		stem1
